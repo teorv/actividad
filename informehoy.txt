@@ -1,2 +1,3 @@
 abrir y configurar la la consola de Git bash
 Sistema de control de versiones:  son software que ayudan a realizar un seguimiento de los cambios realizados en el código a lo largo del tiempo
+Como ignorar archivos para no ser comprometidos en el area de trabajo
